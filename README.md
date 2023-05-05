@@ -9,7 +9,7 @@ To run this project, you must first have Python and pip installed on your comput
 To download this project, you can use the `git clone` command as follows:
 
 ```
-git clone https://github.com/IstakozNecmi/Python_Bots.git
+git clone https://github.com/HasancanCakicioglu/Python_Bots.git
 ```
 
 After downloading the project files, you can install the required libraries by running the following command:
